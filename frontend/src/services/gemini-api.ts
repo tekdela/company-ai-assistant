@@ -1,4 +1,4 @@
-"""API Service for Gemini-powered backend"""
+// API Service for Gemini-powered backend
 import axios, { AxiosInstance } from 'axios';
 import { ChatMessage, ChatResponse, UploadResponse, HealthResponse } from '../types/api';
 

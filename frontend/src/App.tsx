@@ -1,4 +1,3 @@
-import React from 'react';
 import GeminiChat from './components/GeminiChat';
 import './styles/App.css';
 
