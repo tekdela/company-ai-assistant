@@ -1,0 +1,16 @@
+name = "company-ai-assistant"
+main = "src/index.js"
+compatibility_date = "2023-10-30"
+
+[env.production]
+name = "company-ai-assistant-prod"
+route = { pattern = "ai-assistant.yourdomain.com/*", zone_name = "yourdomain.com" }
+
+[env.staging]
+name = "company-ai-assistant-staging"
+
+[[env.production.vars]]
+BACKEND_URL = "https://api-ai-assistant.yourdomain.com"
+
+[[env.staging.vars]]
+BACKEND_URL = "https://staging-api-ai-assistant.yourdomain.com"
