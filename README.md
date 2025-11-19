@@ -2,6 +2,23 @@
 
 Trợ lý AI nội bộ hỗ trợ công việc cho công ty, được tích hợp với Google Gemini AI và Cloudflare.
 
+---
+
+## 🎯 URGENT: GET YOUR LIVE WEB LINK NOW!
+
+**Want to deploy immediately?** 👇
+
+### **📍 Quick Deploy (5 Minutes):**
+👉 **[GET_LIVE_LINK_NOW.md](GET_LIVE_LINK_NOW.md)** - No coding required!
+
+### **📚 Detailed Deployment:**
+👉 **[PRODUCTION_DEPLOYMENT.md](PRODUCTION_DEPLOYMENT.md)** - Multiple deployment options
+
+### **📋 Deployment Summary:**
+👉 **[DEPLOYMENT_COMPLETE.md](DEPLOYMENT_COMPLETE.md)** - Overview of everything ready
+
+---
+
 ## ✨ Features
 
 ### AI Capabilities (Powered by Google Gemini)
