@@ -10,6 +10,9 @@ jobs:
   deploy-frontend:
     runs-on: ubuntu-latest
     name: Deploy Frontend to Cloudflare Pages
+    permissions:
+      contents: read
+      deployments: write
     
     steps:
       - name: Checkout
@@ -44,6 +47,8 @@ jobs:
   deploy-workers:
     runs-on: ubuntu-latest
     name: Deploy Cloudflare Workers
+    permissions:
+      contents: read
     
     steps:
       - name: Checkout
